@@ -1,0 +1,14 @@
+{
+  "name": "drf_crud",
+  "description": "",
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    },
+    {
+      "plan": "heroku-redis"
+    }
+  ],
+  "stack": "container",
+  "buildpacks": []
+}
