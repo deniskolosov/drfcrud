@@ -1,5 +1,7 @@
 ## Usage
 ## Setup
+
+Code for apps managing logic is located at drfcrud/api/apps
 1. Create an environment configuration file (.env) with the following contents:
 ```
 DJANGO_ALLOWED_HOSTS=*
